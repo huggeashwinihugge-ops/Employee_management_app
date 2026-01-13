@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "886842434626",
+    "project_id": "rms-expense-app",
+    "storage_bucket": "rms-expense-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886842434626:android:66c19962622fc50d12b9db",
+        "android_client_info": {
+          "package_name": "com.example.rms_expense_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886842434626-ccog8hp5hfv8guasc9a0kpmvbsdksunm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rms_expense_app",
+            "certificate_hash": "da877abfb7117158e291d476f336e5b256c8de15"
+          }
+        },
+        {
+          "client_id": "886842434626-tgb19mt2qmdqjo8ab2086agoakp1hrcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPNn7f-clQitykKtKvMa12pVHFWJuvQU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886842434626-tgb19mt2qmdqjo8ab2086agoakp1hrcr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

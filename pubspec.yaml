@@ -1,0 +1,39 @@
+name: rms_expense_app
+description: RMS Electro & IT Solutions – Expense Management App
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase (PRODUCTION)
+  firebase_core: ^4.3.0
+  firebase_auth: ^6.1.3
+  google_sign_in: ^7.2.0
+  cloud_firestore: ^6.1.1
+  csv: ^6.0.0
+  pdf: ^3.10.7
+  path_provider: ^2.1.2
+  open_filex: ^4.4.0
+  intl: ^0.20.2
+  firebase_storage: ^13.0.5
+  image_picker: ^1.0.7
+  file_picker: ^10.3.8
+  firebase_messaging: ^16.1.0
+  flutter_local_notifications: ^19.5.0
+  # UI
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
